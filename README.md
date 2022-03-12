@@ -1,4 +1,6 @@
-## md2c
+# md2c
+
+## Try it: [md2c.pages.dev](https://md2c.pages.dev/)
 
 Convert markdown to confluence wiki markup.
 将`markdown`转成`confluence`标记语言。
