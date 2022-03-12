@@ -5,13 +5,14 @@
 ## Host it yourself on Cloudflare Pages
 1. Fork this repository
 2. Go to [Cloudflare Pages](https://pages.cloudflare.com/)
-3. Click "Create a project"
-4. Click your repository ("md2c")
-5. Click "Begin setup"
-6. Set "Build output directory" to "demo"
-7. Click "Save and Deploy"
-8. Click "Continue to project"
-9. Click "Visit site" to view you're newly deployed Markdown to Confluence Markup site!
+3. Click "Log in" or "Sign Up" if you don't have a Cloudflare account
+4. Click "Create a project"
+5. Click your repository ("md2c")
+6. Click "Begin setup"
+7. Set "Build output directory" to "demo"
+8. Click "Save and Deploy"
+9. Click "Continue to project"
+10. Click "Visit site" to view you're newly deployed Markdown to Confluence Markup site!
 
 ## Original README:
 
