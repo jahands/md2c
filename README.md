@@ -1,4 +1,5 @@
 # md2c
+Convert markdown to confluence wiki markup.
 
 ## Try it: [md2c.pages.dev](https://md2c.pages.dev/)
 
